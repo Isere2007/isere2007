@@ -1,10 +1,9 @@
 # 💫 About Me:
 🧠 Currently learning: Full-stack web development & modern frameworks<br>- 🎨 Interests: UI design, creative coding, and music<br>-  ⚡ Fun fact: I’m always mixing creativity with code — like music, visuals, or design tools!
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/brandonjeanson/brandonjeanson/master/name.svg" alt="brandonjeanson" />
-</h1>
-
+<p align="center">
+  <img src="<script src="https://gist.github.com/Isere2007/2c4eecee08babd72f4067749562dab0e.js"></script>" />
+</p>
 
 
 
