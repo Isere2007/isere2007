@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Isere Prime
+# 👋 Hey there, I'm Brandon Jeanson!
 
 💻 **Developer | Creator | Problem Solver**  
 I love building creative, efficient, and aesthetic digital experiences — blending design and functionality.
