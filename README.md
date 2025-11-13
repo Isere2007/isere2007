@@ -8,7 +8,8 @@ I love building creative, efficient, and aesthetic digital experiences — blend
 ### 🚀 About Me
 - 🧠 Currently learning: **Full-stack web development & modern frameworks**
 - 🎨 Interests: **UI design, creative coding, and music**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourwebsite.com)
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/brandon-jeanson-353a60266)
+Vanity URL name) • [Portfolio](https://yourwebsite.com)
 - ⚡ Fun fact: I’m always mixing creativity with code — like music, visuals, or design tools!
 
 ---
