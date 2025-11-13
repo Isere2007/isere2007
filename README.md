@@ -19,10 +19,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 BOOT.DEV
-<p align="left">
-  <img src="https://www.boot.dev/u/curvyfriendship52" >
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/0c26d3c0-0fa9-4196-93f7-75becaa84ca5/thumbnail" >
 </p>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isere2007&icon=3&color=8)](https://visitcount.itsvg.in)
