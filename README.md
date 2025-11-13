@@ -6,9 +6,6 @@
 </h1>
 
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/brandonjeanson/brandonjeanson/master/name.svg" alt="Brandon Jeanson" />
-</h1>
 
 
 ## 🌐 Socials:
