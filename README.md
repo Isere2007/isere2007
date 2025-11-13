@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 BOOT.DEV
-(https://www.boot.dev/u/curvyfriendship52)
+[(https://www.boot.dev/u/curvyfriendship52)](https://www.boot.dev/u/curvyfriendship52)
 
 
 ---
