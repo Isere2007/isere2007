@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/brandonjeanson/master/name.svg" alt="Brandon Jeanson" />
+  <img src="https://raw.githubusercontent.com/brandonjeanson/brandonjeanson/master/name.svg" alt="Brandon Jeanson" />
 </h1>
 
 
