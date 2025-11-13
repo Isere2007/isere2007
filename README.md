@@ -13,8 +13,6 @@
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 <br><br>
-python
-!/usr/bin/python
  -*- coding: utf-8 -*-
 
 <p align="center">
