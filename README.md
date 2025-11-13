@@ -2,7 +2,7 @@
 🧠 Currently learning: Full-stack web development & modern frameworks<br>- 🎨 Interests: UI design, creative coding, and music<br>-  ⚡ Fun fact: I’m always mixing creativity with code — like music, visuals, or design tools!
 
 <p align="center">
-  <img src="https://gist.githubusercontent.com/Isere2007/BrandonJeanson/raw/banner.svg" width="800" alt="Brandon Jeanson Banner" />
+  <img src="https://gist.githubusercontent.com/Isere2007/2c4eecee08babd72f4067749562dab0e/raw/17eb131a8bca6f17e7f9fda473f3080d61f3acbe/banner.svg" width="800" alt="Brandon Jeanson Banner" />
 </p>
 
 
