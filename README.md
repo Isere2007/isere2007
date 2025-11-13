@@ -18,8 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=isere2007&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+### 🔝 BOOT.DEV
+https://www.boot.dev/u/curvyfriendship52
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isere2007&icon=3&color=8)](https://visitcount.itsvg.in)
