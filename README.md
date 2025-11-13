@@ -13,7 +13,7 @@
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 <br><br>
- -*- coding: utf-8 -*-
+ 
 
 <p align="center">
   <img src="https://gist.githubusercontent.com/Isere2007/2c4eecee08babd72f4067749562dab0e/raw/17eb131a8bca6f17e7f9fda473f3080d61f3acbe/banner.svg" width="800" alt="Brandon Jeanson Banner" />
