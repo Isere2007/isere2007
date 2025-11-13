@@ -1,6 +1,12 @@
-# 💫 About Me:
-🧠 Currently learning: Full-stack web development & modern frameworks<br>- 🎨 Interests: UI design, creative coding, and music<br>-  ⚡ Fun fact: I’m always mixing creativity with code — like music, visuals, or design tools!
-
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
 <p align="center">
   <img src="https://gist.githubusercontent.com/Isere2007/2c4eecee08babd72f4067749562dab0e/raw/17eb131a8bca6f17e7f9fda473f3080d61f3acbe/banner.svg" width="800" alt="Brandon Jeanson Banner" />
 </p>
