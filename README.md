@@ -13,9 +13,25 @@
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 <br><br>
-<pre># 💫 About Me:
-🧠 Currently learning: Full-stack web development & modern frameworks<br>- 🎨 Interests: UI design, creative coding, and music<br>-  ⚡ Fun fact: I’m always mixing creativity with code — like music, visuals, or design tools!
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 <p align="center">
   <img src="https://gist.githubusercontent.com/Isere2007/2c4eecee08babd72f4067749562dab0e/raw/17eb131a8bca6f17e7f9fda473f3080d61f3acbe/banner.svg" width="800" alt="Brandon Jeanson Banner" />
 </p>
