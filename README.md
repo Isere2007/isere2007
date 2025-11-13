@@ -27,7 +27,7 @@ Vanity URL name) • [Portfolio](https://yourwebsite.com)
 
 ### 📈 GitHub Stats
 
-![IserePrime's GitHub stats](https://github-readme-stats.vercel.app/api?username=IserePrime&show_icons=true&theme=tokyonight)
+![IserePrime's GitHub stats](https://readmestats.999857.xyz)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IserePrime&layout=compact&theme=tokyonight)
 
