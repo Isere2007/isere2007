@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Currently learning: Full-stack web development & modern frameworks<br>- 🎨 Interests: UI design, creative coding, and music<br>- 📫 Reach me: LinkedIn<br>Vanity URL name) • Portfolio<br>- ⚡ Fun fact: I’m always mixing creativity with code — like music, visuals, or design tools!
+🧠 Currently learning: Full-stack web development & modern frameworks<br>- 🎨 Interests: UI design, creative coding, and music<br>-  ⚡ Fun fact: I’m always mixing creativity with code — like music, visuals, or design tools!
 
 
 ## 🌐 Socials:
