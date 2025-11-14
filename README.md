@@ -24,27 +24,23 @@
 
 ## 🌐 About ME:
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="150">
-  <!-- Terminal background -->
-  <rect width="100%" height="100%" fill="#1e1e1e" rx="10" ry="10"/>
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0d1117" rx="10" ry="10"/>
 
-  <!-- Line 1: Python assignment -->
-  <text x="10" y="35" font-family="monospace" font-size="16" fill="#ffffff">
-    >>> <tspan fill="#569CD6">name</tspan> = <tspan fill="#D69D85">"Brandon = Jeanson"</tspan>
+  <!-- Animated title -->
+  <text x="20" y="40" font-family="monospace" font-size="24" fill="#58a6ff">
+    About Me
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0s" fill="freeze"/>
   </text>
 
-  <!-- Line 2: Python print -->
-  <text x="10" y="65" font-family="monospace" font-size="16" fill="#ffffff">
-    >>> <tspan fill="#569CD6">print</tspan>(f"My name is <tspan fill="#D69D85">{name}</tspan>")
+  <!-- Animated description line 1 -->
+  <text x="20" y="70" font-family="monospace" font-size="16" fill="#c9d1d9" opacity="0">
+    Hi! I'm Brandon Jeanson
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1s" fill="freeze"/>
   </text>
 
-  <!-- Line 3: Output -->
-  <text x="10" y="95" font-family="monospace" font-size="16" fill="#6A9955">
-    My name is Brandon = Jeanson
-  </text>
-
-  <!-- Static cursor at the end -->
-  <rect x="300" y="65" width="10" height="18" fill="#58a6ff"/>
-</svg>
+  <!-- Animated description line 2 -->
+  <text x="20" y="95" font-family="monospace" font-size="16" fill="#8b949e" opacity="0">
 
 
 
