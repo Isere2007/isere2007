@@ -28,25 +28,60 @@
 
 
 # 💻 Tech Stack:
-<p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-</a>
- <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-  
+<p align="left">
+
+  <!-- Full-Stack / Web -->
+  <a href="https://reactjs.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7" alt="TypeScript" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="Node.js" />
+  </a>
+  <a href="https://webpack.js.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa" alt="Webpack" />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799" alt="Sass" />
+  </a>
+
+  <!-- Cloud / DevOps -->
+  <a href="https://aws.amazon.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&animation=pulse&svgfill=ff9900" alt="AWS" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=2496ed" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&animation=pulse&svgfill=326ce5" alt="Kubernetes" />
+  </a>
+
+  <!-- AI / ML -->
+  <a href="https://www.python.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=3776ab" alt="Python" />
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&animation=pulse&svgfill=dea584" alt="Rust" />
+  </a>
+  <a href="https://tensorflow.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tensorflow&animation=spin&svgfill=ff6f00" alt="TensorFlow" />
+  </a>
+
+  <!-- Creative / Media -->
+  <a href="https://www.youtube.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=youtube&animation=pulse&svgfill=ff0000" alt="YouTube" />
+  </a>
+  <a href="https://www.twitch.tv/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=twitch&animation=spin&svgfill=6441a5" alt="Twitch" />
+  </a>
+  <a href="https://www.spotify.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spotify&animation=pulse&svgfill=1ed760" alt="Spotify" />
+  </a>
+
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isere2007&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=isere2007&theme=calm_pink&hide_border=false)<br/>
