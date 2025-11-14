@@ -20,9 +20,10 @@
 
 <p align="center">
   <code style="color:#00FF00; font-family:monospace; font-size:24px;">
-    ## 🌐 About ME: _
+    ## 🌐 About ME:
   </code>
 </p>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
