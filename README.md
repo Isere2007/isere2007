@@ -19,10 +19,9 @@
 </p>
 
 <p align="center">
-  <code style="color:#00FF00; font-family:monospace; font-size:24px;">
-    ## 🌐 About ME:
-  </code>
+  <img src="about_me_matrix.gif" alt="About Me" />
 </p>
+
 
 
 <p align="center">
