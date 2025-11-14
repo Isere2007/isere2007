@@ -23,7 +23,29 @@
 </p>
 
 ## 🌐 About ME:
-<img src="python.svg" alt="Python snippet" width="600" />
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150">
+  <!-- Terminal background -->
+  <rect width="100%" height="100%" fill="#1e1e1e" rx="10" ry="10"/>
+
+  <!-- Line 1: Python assignment -->
+  <text x="10" y="35" font-family="monospace" font-size="16" fill="#ffffff">
+    >>> <tspan fill="#569CD6">name</tspan> = <tspan fill="#D69D85">"Brandon = Jeanson"</tspan>
+  </text>
+
+  <!-- Line 2: Python print -->
+  <text x="10" y="65" font-family="monospace" font-size="16" fill="#ffffff">
+    >>> <tspan fill="#569CD6">print</tspan>(f"My name is <tspan fill="#D69D85">{name}</tspan>")
+  </text>
+
+  <!-- Line 3: Output -->
+  <text x="10" y="95" font-family="monospace" font-size="16" fill="#6A9955">
+    My name is Brandon = Jeanson
+  </text>
+
+  <!-- Static cursor at the end -->
+  <rect x="300" y="65" width="10" height="18" fill="#58a6ff"/>
+</svg>
+
 
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Isere2007) 
