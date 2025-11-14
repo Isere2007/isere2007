@@ -99,7 +99,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 BOOT.DEV
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/0c26d3c0-0fa9-4196-93f7-75becaa84ca5/thumbnail" >
 </p>
 <img src="flames.svg" width="100%" alt="Flames">
