@@ -105,8 +105,6 @@
   <img src="https://api.boot.dev/v1/users/public/0c26d3c0-0fa9-4196-93f7-75becaa84ca5/thumbnail" >
 </p>
 <img src="flames.svg" width="100%" alt="Flames">
----
-[![](https://visitcount.itsvg.in/api?id=isere2007&icon=7&color=12)](https://visitcount.itsvg.in)
 
 
 
