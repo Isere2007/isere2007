@@ -25,10 +25,16 @@
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Isere2007) 
 >>> for i in range(3):
+>>> 
 ...     print(f"{i+1}: Writing awesome code!")
+
 1: Writing awesome code!
+
 2: Writing awesome code!
+
 3: Writing awesome code!
+
+
 
 
 
