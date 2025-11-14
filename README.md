@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://gist.githubusercontent.com/Isere2007/db66094da1bf8d08dd96cec914315700/raw/709271a3738fb425c326a4a2f59ef9e182bbbf9d/pip%2520boy-terminal.svg" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
