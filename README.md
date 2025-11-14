@@ -13,6 +13,9 @@
   <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 <br><br>
+<p align="center">
+  <img src="https://gist.githubusercontent.com/Isere2007/591877fe049d8eacc10b36e5dc33493c/raw/37e813dc218189c4de30e33e7758d79b858c63d9/gistfile1.txt" width="100%" />
+</p>
 
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
