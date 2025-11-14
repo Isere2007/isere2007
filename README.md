@@ -13,7 +13,12 @@
   <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
-
+<p>
+  <a href="https://gist.githubusercontent.com/Isere2007/2c4eecee08babd72f4067749562dab0e/raw/17eb131a8bca6f17e7f9fda473f3080d61f3acbe/banner.svg"
+     target="_blank" rel="noopener noreferrer">
+    View the animated SVG banner
+  </a>
+</p>
 
 
 ## 🌐 Socials:
