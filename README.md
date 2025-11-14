@@ -15,10 +15,65 @@
 <br><br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://gist.githubusercontent.com/Isere2007/8d1a1730b191f1d030fbaa3b42c61097/raw/f6a39bdca2b02aad9456faaea0c7f9778dc145d4/matrix-rain.svg" width="75%" />
-</p>
+<svg width="100%" height="6000" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ===== MATRIX BACKGROUND ===== -->
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00FF41" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00FF41" stop-opacity="0"/>
+    </linearGradient>
+
+    <style>
+      .char { font-family: monospace; font-size: 22px; fill: url(#fade); }
+      .typing { font-family: 'Fira Code', monospace; font-size: 30px; fill: #00FF41; }
+    </style>
+  </defs>
+
+  <!-- MATRIX COLUMNS (simplified demo) -->
+  <text x="40">
+    <tspan class="char" y="0">0
+      <animate attributeName="y" from="-800" to="6000" dur="4.5s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan class="char" y="-50">1
+      <animate attributeName="y" from="-850" to="5950" dur="4.5s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+
+  <text x="90">
+    <tspan class="char" y="0">A
+      <animate attributeName="y" from="-900" to="6000" dur="4s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan class="char" y="-50">3
+      <animate attributeName="y" from="-950" to="5950" dur="4s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+
+  <!-- ===== TYPING TEXT ON TOP ===== -->
+  <text x="50%" y="100" text-anchor="middle" class="typing">
+    <tspan>Computer Engineer</tspan>
+  </text>
+  <text x="50%" y="140" text-anchor="middle" class="typing">
+    <tspan>Full-Stack Developer</tspan>
+  </text>
+  <text x="50%" y="180" text-anchor="middle" class="typing">
+    <tspan>Cloud Engineer</tspan>
+  </text>
+  <text x="50%" y="220" text-anchor="middle" class="typing">
+    <tspan>AI Engineer</tspan>
+  </text>
+  <text x="50%" y="260" text-anchor="middle" class="typing">
+    <tspan>YouTuber</tspan>
+  </text>
+  <text x="50%" y="300" text-anchor="middle" class="typing">
+    <tspan>Streamer</tspan>
+  </text>
+  <text x="50%" y="340" text-anchor="middle" class="typing">
+    <tspan>Editor</tspan>
+  </text>
+
+</svg>
+
 
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
