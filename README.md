@@ -13,68 +13,21 @@
   <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 <br><br>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
-<svg width="100%" height="6000" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- ===== MATRIX BACKGROUND ===== -->
-  <defs>
-    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#00FF41" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#00FF41" stop-opacity="0"/>
-    </linearGradient>
-
-    <style>
-      .char { font-family: monospace; font-size: 22px; fill: url(#fade); }
-      .typing { font-family: 'Fira Code', monospace; font-size: 30px; fill: #00FF41; }
-    </style>
-  </defs>
-
-  <!-- MATRIX COLUMNS (simplified demo) -->
-  <text x="40">
-    <tspan class="char" y="0">0
-      <animate attributeName="y" from="-800" to="6000" dur="4.5s" repeatCount="indefinite"/>
-    </tspan>
-    <tspan class="char" y="-50">1
-      <animate attributeName="y" from="-850" to="5950" dur="4.5s" repeatCount="indefinite"/>
-    </tspan>
-  </text>
-
-  <text x="90">
-    <tspan class="char" y="0">A
-      <animate attributeName="y" from="-900" to="6000" dur="4s" repeatCount="indefinite"/>
-    </tspan>
-    <tspan class="char" y="-50">3
-      <animate attributeName="y" from="-950" to="5950" dur="4s" repeatCount="indefinite"/>
-    </tspan>
-  </text>
-
-  <!-- ===== TYPING TEXT ON TOP ===== -->
-  <text x="50%" y="100" text-anchor="middle" class="typing">
-    <tspan>Computer Engineer</tspan>
-  </text>
-  <text x="50%" y="140" text-anchor="middle" class="typing">
-    <tspan>Full-Stack Developer</tspan>
-  </text>
-  <text x="50%" y="180" text-anchor="middle" class="typing">
-    <tspan>Cloud Engineer</tspan>
-  </text>
-  <text x="50%" y="220" text-anchor="middle" class="typing">
-    <tspan>AI Engineer</tspan>
-  </text>
-  <text x="50%" y="260" text-anchor="middle" class="typing">
-    <tspan>YouTuber</tspan>
-  </text>
-  <text x="50%" y="300" text-anchor="middle" class="typing">
-    <tspan>Streamer</tspan>
-  </text>
-  <text x="50%" y="340" text-anchor="middle" class="typing">
-    <tspan>Editor</tspan>
-  </text>
-
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .c{font:18px monospace;fill:#0F0;}
+    .t{font:24px monospace;fill:#0F0;text-anchor:middle;}
+  </style>
+  <!-- tiny matrix rain -->
+  <text x="20"><tspan class="c" y="0">01F<animate attributeName="y" from="-50" to="200" dur="2s" repeatCount="indefinite"/></tspan></text>
+  <text x="60"><tspan class="c" y="0">A7B<animate attributeName="y" from="-50" to="200" dur="2.2s" repeatCount="indefinite"/></tspan></text>
+  <text x="100"><tspan class="c" y="0">C84<animate attributeName="y" from="-50" to="200" dur="2.4s" repeatCount="indefinite"/></tspan></text>
+  <!-- typing text -->
+  <text x="50%" y="50" class="t">Computer Engineer</text>
+  <text x="50%" y="80" class="t">Full-Stack Developer</text>
+  <text x="50%" y="110" class="t">Cloud Engineer</text>
+  <text x="50%" y="140" class="t">AI Engineer</text>
 </svg>
-
-
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
