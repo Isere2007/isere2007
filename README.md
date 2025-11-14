@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://gist.githubusercontent.com/Isere2007/db66094da1bf8d08dd96cec914315700/raw/709271a3738fb425c326a4a2f59ef9e182bbbf9d/pip%2520boy-terminal.svg" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -14,6 +12,10 @@
   <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+
+  <p align="center">
+  <img src="https://gist.githubusercontent.com/Isere2007/db66094da1bf8d08dd96cec914315700/raw/709271a3738fb425c326a4a2f59ef9e182bbbf9d/pip%2520boy-terminal.svg" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://gist.githubusercontent.com/Isere2007/2c4eecee08babd72f4067749562dab0e/raw/17eb131a8bca6f17e7f9fda473f3080d61f3acbe/banner.svg" width="100%" />
