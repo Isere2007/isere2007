@@ -32,6 +32,8 @@
 
 <p align="left" style="display:flex;flex-wrap:wrap;gap:20px;">
 
+<p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;background:#0d0d0d;padding:20px;border-radius:15px;">
+
   <!-- Full-Stack / Web -->
   <a href="https://reactjs.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=glow&svgfill=61dafb" alt="React" width="90" style="filter: drop-shadow(0 0 12px #61dafb);" />
