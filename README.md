@@ -31,34 +31,39 @@
 
 <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;">
 
-  <!-- React with glowing border -->
+  <!-- React -->
   <a href="https://reactjs.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&glow=61dafb&svgfill=61dafb" alt="React" width="90" />
   </a>
 
-  <!-- TypeScript with glowing border -->
+  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=pulse&glow=3178c6&svgfill=3178c6" alt="TypeScript" width="90" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=spin&glow=3178c6&svgfill=3178c6" alt="TypeScript" width="90" />
   </a>
 
-  <!-- Node.js with glowing border -->
+  <!-- Node.js -->
   <a href="https://nodejs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&animation=pulse&glow=339933&svgfill=339933" alt="Node.js" width="90" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&animation=spin&glow=339933&svgfill=339933" alt="Node.js" width="90" />
   </a>
 
   <!-- AWS -->
   <a href="https://aws.amazon.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&animation=pulse&glow=ff9900&svgfill=ff9900" alt="AWS" width="90" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&animation=spin&glow=ff9900&svgfill=ff9900" alt="AWS" width="90" />
   </a>
 
   <!-- Docker -->
   <a href="https://www.docker.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=pulse&glow=2496ed&svgfill=2496ed" alt="Docker" width="90" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&glow=2496ed&svgfill=2496ed" alt="Docker" width="90" />
   </a>
 
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&animation=pulse&glow=326ce5&svgfill=326ce5" alt="Kubernetes" width="90" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&animation=spin&glow=326ce5&svgfill=326ce5" alt="Kubernetes" width="90" />
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&glow=3776ab&svgfill=3776ab" alt="Python" width="90" />
   </a>
 
 </p>
