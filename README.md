@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="about_me_matrix.gif" alt="About Me" />
-</p>
+
 
 
 
