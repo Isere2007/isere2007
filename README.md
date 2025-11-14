@@ -14,11 +14,6 @@
 </p>
 <br><br>
 
-<p align="center">
-  <img src="https://gist.githubusercontent.com/Isere2007/60849273f70fcd7fe975778bc7538492/raw/cacc6b50e99eb7f10e7ee129377825be18d2186e/pip%2520boy-terminal.svg" width="100%" />
-</p>
-
-
 
 
 ## 🌐 Socials:
