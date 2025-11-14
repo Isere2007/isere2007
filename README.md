@@ -14,8 +14,9 @@
 </p>
 <br><br>
 <p align="center">
-  <img src="https://gist.githubusercontent.com/Isere2007/8d1a1730b191f1d030fbaa3b42c61097/raw/f6a39bdca2b02aad9456faaea0c7f9778dc145d4/matrix-rain.svg" width="100%" height="150px" />
+  <img src="https://gist.githubusercontent.com/Isere2007/8d1a1730b191f1d030fbaa3b42c61097/raw/f6a39bdca2b02aad9456faaea0c7f9778dc145d4/matrix-rain.svg" width="100%" height="250px" style="font-size:24px;" />
 </p>
+
 
 
     💻 System programming languages • DevOps 
