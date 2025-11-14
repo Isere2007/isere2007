@@ -28,13 +28,11 @@
 
 
 # 💻 Tech Stack:
-<p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:15px;">
-
 <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;">
 
   <!-- Full-Stack / Web -->
   <a href="https://reactjs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=pulse&svgfill=61dafb" alt="React" width="90" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61dafb" alt="React" width="90" />
   </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=pulse&svgfill=3178c6" alt="TypeScript" width="90" />
