@@ -1,0 +1,50 @@
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .matrix {
+      font:20px monospace; 
+      fill:#00FF41;
+      filter: drop-shadow(0 0 4px #00FF41);
+    }
+    .terminal {
+      font:16px monospace; 
+      fill:#7CFC00; 
+      text-anchor:middle;
+      filter: drop-shadow(0 0 2px #7CFC00);
+    }
+  </style>
+
+  <!-- LEFT MATRIX COLUMNS -->
+  <text x="10"><tspan class="matrix" y="0">0F1<animate attributeName="y" from="-50" to="300" dur="2s" repeatCount="indefinite"/></tspan></text>
+  <text x="20"><tspan class="matrix" y="0">A7B<animate attributeName="y" from="-50" to="300" dur="2.1s" repeatCount="indefinite"/></tspan></text>
+  <text x="30"><tspan class="matrix" y="0">C84<animate attributeName="y" from="-50" to="300" dur="2.2s" repeatCount="indefinite"/></tspan></text>
+  <text x="40"><tspan class="matrix" y="0">B3D<animate attributeName="y" from="-50" to="300" dur="2.3s" repeatCount="indefinite"/></tspan></text>
+  <text x="50"><tspan class="matrix" y="0">F1A<animate attributeName="y" from="-50" to="300" dur="2.4s" repeatCount="indefinite"/></tspan></text>
+
+  <!-- RIGHT MATRIX COLUMNS -->
+  <text x="710"><tspan class="matrix" y="0">D1E<animate attributeName="y" from="-50" to="300" dur="2s" repeatCount="indefinite"/></tspan></text>
+  <text x="720"><tspan class="matrix" y="0">B3F<animate attributeName="y" from="-50" to="300" dur="2.1s" repeatCount="indefinite"/></tspan></text>
+  <text x="730"><tspan class="matrix" y="0">F7A<animate attributeName="y" from="-50" to="300" dur="2.2s" repeatCount="indefinite"/></tspan></text>
+  <text x="740"><tspan class="matrix" y="0">E2C<animate attributeName="y" from="-50" to="300" dur="2.3s" repeatCount="indefinite"/></tspan></text>
+  <text x="750"><tspan class="matrix" y="0">9B4<animate attributeName="y" from="-50" to="300" dur="2.4s" repeatCount="indefinite"/></tspan></text>
+
+  <!-- PIP-BOY TERMINAL CENTER -->
+  <text x="50%" y="60" class="terminal">
+    <tspan>&gt;&gt;&gt; NAME: Brandon Jeanson</tspan>
+  </text>
+
+  <text x="50%" y="90" class="terminal">
+    <tspan>&gt;&gt;&gt; OCCUPATION: Full-Stack Dev | Cloud Engineer</tspan>
+  </text>
+
+  <text x="50%" y="120" class="terminal">
+    <tspan>&gt;&gt;&gt; SKILLS: Python, Rust, JS, Docker</tspan>
+  </text>
+
+  <text x="50%" y="150" class="terminal">
+    <tspan>&gt;&gt;&gt; INTERESTS: Gaming, Music, Art, Code</tspan>
+  </text>
+
+  <text x="50%" y="180" class="terminal">
+    <tspan>&gt;&gt;&gt; STATUS: Online</tspan>
+  </text>
+</svg>
