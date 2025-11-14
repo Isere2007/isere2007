@@ -28,59 +28,41 @@
 
 
 # 💻 Tech Stack:
-<p align="left">
+<p align="left" style="display:flex;flex-wrap:wrap;gap:10px;">
 
   <!-- Full-Stack / Web -->
   <a href="https://reactjs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61dafb" alt="React" width="60" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7" alt="TypeScript" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=3178c6" alt="TypeScript" width="60" />
   </a>
   <a href="https://nodejs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="Node.js" />
-  </a>
-  <a href="https://webpack.js.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa" alt="Webpack" />
-  </a>
-  <a href="https://sass-lang.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799" alt="Sass" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=339933" alt="Node.js" width="60" />
   </a>
 
   <!-- Cloud / DevOps -->
   <a href="https://aws.amazon.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&animation=pulse&svgfill=ff9900" alt="AWS" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&animation=pulse&svgfill=ff9900" alt="AWS" width="60" />
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=2496ed" alt="Docker" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=2496ed" alt="Docker" width="60" />
   </a>
   <a href="https://kubernetes.io/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&animation=pulse&svgfill=326ce5" alt="Kubernetes" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&animation=pulse&svgfill=326ce5" alt="Kubernetes" width="60" />
   </a>
 
-  <!-- AI / ML -->
+  <!-- AI / Programming -->
   <a href="https://www.python.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=3776ab" alt="Python" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=3776ab" alt="Python" width="60" />
   </a>
   <a href="https://www.rust-lang.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&animation=pulse&svgfill=dea584" alt="Rust" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&animation=pulse&svgfill=dea584" alt="Rust" width="60" />
   </a>
   <a href="https://tensorflow.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tensorflow&animation=spin&svgfill=ff6f00" alt="TensorFlow" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tensorflow&animation=spin&svgfill=ff6f00" alt="TensorFlow" width="60" />
   </a>
 
-  <!-- Creative / Media -->
-  <a href="https://www.youtube.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=youtube&animation=pulse&svgfill=ff0000" alt="YouTube" />
-  </a>
-  <a href="https://www.twitch.tv/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=twitch&animation=spin&svgfill=6441a5" alt="Twitch" />
-  </a>
-  <a href="https://www.spotify.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spotify&animation=pulse&svgfill=1ed760" alt="Spotify" />
-  </a>
-
-</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isere2007&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
