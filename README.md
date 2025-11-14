@@ -23,7 +23,8 @@
 </p>
 
 ## 🌐 About ME:
-<script src="https://gist.github.com/Isere2007/86171de1eafddf0e1bea20f691d80136.js"></script>
+<img src="python.svg" alt="Python snippet" width="600" />
+
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Isere2007) 
 
