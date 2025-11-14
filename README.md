@@ -1,5 +1,3 @@
-<img src="clouds.svg" width="100%" alt="Clouds">
-
 <p align="center">
   <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
