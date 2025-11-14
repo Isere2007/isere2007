@@ -22,7 +22,23 @@
   <img src="https://gist.githubusercontent.com/Isere2007/de645dab82898d23b1a8949125c3508b/raw/395955108fa3cf2b4a7a2bace8bed9841802940e/falling-matrix.svg" width="100%" />
 </p>
 
-## 🌐 About ME:
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="40">
+    <!-- Background transparent -->
+    <rect width="100%" height="100%" fill="transparent"/>
+    
+  
+    <text x="0" y="25" font-family="monospace" font-size="24" fill="#00FF00">
+      ## 🌐 About ME:
+    </text>
+    
+  
+    <rect x="190" y="7" width="10" height="20" fill="#00FF00">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </svg>
+</p>
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
