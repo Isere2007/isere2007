@@ -1,0 +1,120 @@
+<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="cloudGradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e0f4ff;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.7" />
+    </linearGradient>
+    
+    <linearGradient id="cloudGradient2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4ecff;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#f0f8ff;stop-opacity:0.6" />
+    </linearGradient>
+    
+    <linearGradient id="cloudGradient3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#b8daff;stop-opacity:0.7" />
+      <stop offset="100%" style="stop-color:#e6f2ff;stop-opacity:0.5" />
+    </linearGradient>
+    
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87ceeb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b0d4f1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="120" fill="url(#skyGradient)"/>
+  
+  <g opacity="0.6">
+    <ellipse cx="150" cy="70" rx="80" ry="30" fill="url(#cloudGradient3)">
+      <animate attributeName="cx" dur="60s" repeatCount="indefinite" values="150;1350;150"/>
+      <animate attributeName="ry" dur="4s" repeatCount="indefinite" values="30;35;30"/>
+    </ellipse>
+    <ellipse cx="120" cy="75" rx="60" ry="25" fill="url(#cloudGradient3)">
+      <animate attributeName="cx" dur="60s" repeatCount="indefinite" values="120;1320;120"/>
+      <animate attributeName="ry" dur="3.5s" repeatCount="indefinite" values="25;30;25"/>
+    </ellipse>
+    <ellipse cx="180" cy="75" rx="60" ry="25" fill="url(#cloudGradient3)">
+      <animate attributeName="cx" dur="60s" repeatCount="indefinite" values="180;1380;180"/>
+      <animate attributeName="ry" dur="4.2s" repeatCount="indefinite" values="25;30;25"/>
+    </ellipse>
+    
+    <ellipse cx="650" cy="65" rx="90" ry="32" fill="url(#cloudGradient3)">
+      <animate attributeName="cx" dur="55s" repeatCount="indefinite" values="650;-250;650"/>
+      <animate attributeName="ry" dur="3.8s" repeatCount="indefinite" values="32;37;32"/>
+    </ellipse>
+    <ellipse cx="620" cy="70" rx="65" ry="28" fill="url(#cloudGradient3)">
+      <animate attributeName="cx" dur="55s" repeatCount="indefinite" values="620;-280;620"/>
+      <animate attributeName="ry" dur="4.1s" repeatCount="indefinite" values="28;33;28"/>
+    </ellipse>
+    <ellipse cx="680" cy="70" rx="65" ry="28" fill="url(#cloudGradient3)">
+      <animate attributeName="cx" dur="55s" repeatCount="indefinite" values="680;-220;680"/>
+      <animate attributeName="ry" dur="3.6s" repeatCount="indefinite" values="28;33;28"/>
+    </ellipse>
+  </g>
+  
+  <g opacity="0.75">
+    <ellipse cx="400" cy="55" rx="100" ry="35" fill="url(#cloudGradient2)">
+      <animate attributeName="cx" dur="45s" repeatCount="indefinite" values="400;1600;400"/>
+      <animate attributeName="ry" dur="3.5s" repeatCount="indefinite" values="35;40;35"/>
+    </ellipse>
+    <ellipse cx="360" cy="60" rx="70" ry="30" fill="url(#cloudGradient2)">
+      <animate attributeName="cx" dur="45s" repeatCount="indefinite" values="360;1560;360"/>
+      <animate attributeName="ry" dur="4s" repeatCount="indefinite" values="30;35;30"/>
+    </ellipse>
+    <ellipse cx="440" cy="60" rx="70" ry="30" fill="url(#cloudGradient2)">
+      <animate attributeName="cx" dur="45s" repeatCount="indefinite" values="440;1640;440"/>
+      <animate attributeName="ry" dur="3.8s" repeatCount="indefinite" values="30;35;30"/>
+    </ellipse>
+    
+    <ellipse cx="900" cy="50" rx="95" ry="33" fill="url(#cloudGradient2)">
+      <animate attributeName="cx" dur="50s" repeatCount="indefinite" values="900;-300;900"/>
+      <animate attributeName="ry" dur="3.7s" repeatCount="indefinite" values="33;38;33"/>
+    </ellipse>
+    <ellipse cx="865" cy="55" rx="68" ry="29" fill="url(#cloudGradient2)">
+      <animate attributeName="cx" dur="50s" repeatCount="indefinite" values="865;-335;865"/>
+      <animate attributeName="ry" dur="4.2s" repeatCount="indefinite" values="29;34;29"/>
+    </ellipse>
+    <ellipse cx="935" cy="55" rx="68" ry="29" fill="url(#cloudGradient2)">
+      <animate attributeName="cx" dur="50s" repeatCount="indefinite" values="935;-265;935"/>
+      <animate attributeName="ry" dur="3.9s" repeatCount="indefinite" values="29;34;29"/>
+    </ellipse>
+  </g>
+  
+  <g opacity="0.85">
+    <ellipse cx="250" cy="40" rx="110" ry="38" fill="url(#cloudGradient1)">
+      <animate attributeName="cx" dur="35s" repeatCount="indefinite" values="250;1450;250"/>
+      <animate attributeName="ry" dur="3.2s" repeatCount="indefinite" values="38;44;38"/>
+    </ellipse>
+    <ellipse cx="200" cy="48" rx="80" ry="32" fill="url(#cloudGradient1)">
+      <animate attributeName="cx" dur="35s" repeatCount="indefinite" values="200;1400;200"/>
+      <animate attributeName="ry" dur="3.5s" repeatCount="indefinite" values="32;38;32"/>
+    </ellipse>
+    <ellipse cx="300" cy="48" rx="80" ry="32" fill="url(#cloudGradient1)">
+      <animate attributeName="cx" dur="35s" repeatCount="indefinite" values="300;1500;300"/>
+      <animate attributeName="ry" dur="3.8s" repeatCount="indefinite" values="32;38;32"/>
+    </ellipse>
+    
+    <ellipse cx="800" cy="35" rx="105" ry="36" fill="url(#cloudGradient1)">
+      <animate attributeName="cx" dur="40s" repeatCount="indefinite" values="800;-400;800"/>
+      <animate attributeName="ry" dur="3.4s" repeatCount="indefinite" values="36;42;36"/>
+    </ellipse>
+    <ellipse cx="755" cy="43" rx="75" ry="31" fill="url(#cloudGradient1)">
+      <animate attributeName="cx" dur="40s" repeatCount="indefinite" values="755;-445;755"/>
+      <animate attributeName="ry" dur="3.7s" repeatCount="indefinite" values="31;37;31"/>
+    </ellipse>
+    <ellipse cx="845" cy="43" rx="75" ry="31" fill="url(#cloudGradient1)">
+      <animate attributeName="cx" dur="40s" repeatCount="indefinite" values="845;-355;845"/>
+      <animate attributeName="ry" dur="3.3s" repeatCount="indefinite" values="31;37;31"/>
+    </ellipse>
+  </g>
+  
+  <g opacity="0.5">
+    <ellipse cx="550" cy="25" rx="40" ry="15" fill="#ffffff">
+      <animate attributeName="cx" dur="30s" repeatCount="indefinite" values="550;1750;550"/>
+      <animate attributeName="cy" dur="5s" repeatCount="indefinite" values="25;20;25"/>
+    </ellipse>
+    <ellipse cx="1050" cy="30" rx="35" ry="13" fill="#ffffff">
+      <animate attributeName="cx" dur="32s" repeatCount="indefinite" values="1050;-150;1050"/>
+      <animate attributeName="cy" dur="4.5s" repeatCount="indefinite" values="30;25;30"/>
+    </ellipse>
+  </g>
+</svg>
