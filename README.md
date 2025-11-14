@@ -34,46 +34,46 @@
 
   <!-- Full-Stack / Web -->
   <a href="https://reactjs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61dafb" alt="React" width="90" style="filter: drop-shadow(0 0 12px #61dafb);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=glow&svgfill=61dafb" alt="React" width="90" style="filter: drop-shadow(0 0 12px #61dafb);" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=3178c6" alt="TypeScript" width="90" style="filter: drop-shadow(0 0 12px #3178c6);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=glow&svgfill=3178c6" alt="TypeScript" width="90" style="filter: drop-shadow(0 0 12px #3178c6);" />
   </a>
   <a href="https://nodejs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=339933" alt="Node.js" width="90" style="filter: drop-shadow(0 0 12px #339933);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&animation=glow&svgfill=339933" alt="Node.js" width="90" style="filter: drop-shadow(0 0 12px #339933);" />
   </a>
 
   <!-- Cloud / DevOps -->
   <a href="https://aws.amazon.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&animation=pulse&svgfill=ff9900" alt="AWS" width="90" style="filter: drop-shadow(0 0 12px #ff9900);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&animation=glow&svgfill=ff9900" alt="AWS" width="90" style="filter: drop-shadow(0 0 12px #ff9900);" />
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=spin&svgfill=2496ed" alt="Docker" width="90" style="filter: drop-shadow(0 0 12px #2496ed);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=glow&svgfill=2496ed" alt="Docker" width="90" style="filter: drop-shadow(0 0 12px #2496ed);" />
   </a>
   <a href="https://kubernetes.io/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&animation=pulse&svgfill=326ce5" alt="Kubernetes" width="90" style="filter: drop-shadow(0 0 12px #326ce5);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&animation=glow&svgfill=326ce5" alt="Kubernetes" width="90" style="filter: drop-shadow(0 0 12px #326ce5);" />
   </a>
 
   <!-- AI / Programming -->
   <a href="https://www.python.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=3776ab" alt="Python" width="90" style="filter: drop-shadow(0 0 12px #3776ab);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=glow&svgfill=3776ab" alt="Python" width="90" style="filter: drop-shadow(0 0 12px #3776ab);" />
   </a>
   <a href="https://www.rust-lang.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&animation=pulse&svgfill=dea584" alt="Rust" width="90" style="filter: drop-shadow(0 0 12px #dea584);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&animation=glow&svgfill=dea584" alt="Rust" width="90" style="filter: drop-shadow(0 0 12px #dea584);" />
   </a>
   <a href="https://tensorflow.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tensorflow&animation=spin&svgfill=ff6f00" alt="TensorFlow" width="90" style="filter: drop-shadow(0 0 12px #ff6f00);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tensorflow&animation=glow&svgfill=ff6f00" alt="TensorFlow" width="90" style="filter: drop-shadow(0 0 12px #ff6f00);" />
   </a>
 
   <!-- Creative / Media -->
   <a href="https://www.youtube.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=youtube&animation=pulse&svgfill=ff0000" alt="YouTube" width="90" style="filter: drop-shadow(0 0 12px #ff0000);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=youtube&animation=glow&svgfill=ff0000" alt="YouTube" width="90" style="filter: drop-shadow(0 0 12px #ff0000);" />
   </a>
   <a href="https://www.twitch.tv/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=twitch&animation=spin&svgfill=6441a5" alt="Twitch" width="90" style="filter: drop-shadow(0 0 12px #6441a5);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=twitch&animation=glow&svgfill=6441a5" alt="Twitch" width="90" style="filter: drop-shadow(0 0 12px #6441a5);" />
   </a>
   <a href="https://www.spotify.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spotify&animation=pulse&svgfill=1ed760" alt="Spotify" width="90" style="filter: drop-shadow(0 0 12px #1ed760);" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spotify&animation=glow&svgfill=1ed760" alt="Spotify" width="90" style="filter: drop-shadow(0 0 12px #1ed760);" />
   </a>
 
 </p>
