@@ -14,8 +14,9 @@
 </p>
 <br><br>
 <p align="center">
-  <img src="https://gist.githubusercontent.com/Isere2007/8d1a1730b191f1d030fbaa3b42c61097/raw/f6a39bdca2b02aad9456faaea0c7f9778dc145d4/matrix-rain.svg" width="100%" height="400px" style="font-size:36px;" />
+  <img src="https://gist.githubusercontent.com/Isere2007/9a2a11e358490d1cb2cd49defec250df/raw/829c46489170b73fc437e13dde3ed7aee9c17775/matrix-terminal-svg" width="100%" />
 </p>
+
 
 
 
