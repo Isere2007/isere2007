@@ -17,11 +17,14 @@
 <p align="center">
   <img src="https://gist.githubusercontent.com/Isere2007/2c4eecee08babd72f4067749562dab0e/raw/17eb131a8bca6f17e7f9fda473f3080d61f3acbe/banner.svg" width="100%" />
 </p>
-  <p align="center">
-  <img src="https://gist.githubusercontent.com/Isere2007/db66094da1bf8d08dd96cec914315700/raw/709271a3738fb425c326a4a2f59ef9e182bbbf9d/pip%2520boy-terminal.svg" width="100%" />
-</p>
+ 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Isere2007) 
+
+<p align="center">
+  <img src="https://gist.githubusercontent.com/Isere2007/db66094da1bf8d08dd96cec914315700/raw/709271a3738fb425c326a4a2f59ef9e182bbbf9d/pip%2520boy-terminal.svg" width="100%" />
+</p>
+
 
 # 💻 Tech Stack:
 <p align="left">  
