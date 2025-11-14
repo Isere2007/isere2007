@@ -1,0 +1,80 @@
+<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+  <defs>
+    <!-- Gradient for flames -->
+    <linearGradient id="flameGradient1" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff4500;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ff8c00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffd700;stop-opacity:0.8" />
+    </linearGradient>
+    
+    <linearGradient id="flameGradient2" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6347;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ffa500;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffff00;stop-opacity:0.7" />
+    </linearGradient>
+    
+    <linearGradient id="flameGradient3" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc143c;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ff6347;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffa500;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Flame 1 -->
+  <path fill="url(#flameGradient1)" opacity="0.9">
+    <animate attributeName="d" dur="2s" repeatCount="indefinite"
+      values="
+        M0,80 Q50,40 100,80 T200,80 T300,80 T400,80 T500,80 T600,80 T700,80 T800,80 T900,80 T1000,80 T1100,80 T1200,80 L1200,120 L0,120 Z;
+        M0,75 Q50,30 100,75 T200,75 T300,75 T400,75 T500,75 T600,75 T700,75 T800,75 T900,75 T1000,75 T1100,75 T1200,75 L1200,120 L0,120 Z;
+        M0,85 Q50,50 100,85 T200,85 T300,85 T400,85 T500,85 T600,85 T700,85 T800,85 T900,85 T1000,85 T1100,85 T1200,85 L1200,120 L0,120 Z;
+        M0,80 Q50,40 100,80 T200,80 T300,80 T400,80 T500,80 T600,80 T700,80 T800,80 T900,80 T1000,80 T1100,80 T1200,80 L1200,120 L0,120 Z"/>
+  </path>
+  
+  <!-- Flame 2 (offset animation) -->
+  <path fill="url(#flameGradient2)" opacity="0.7">
+    <animate attributeName="d" dur="2.5s" repeatCount="indefinite"
+      values="
+        M0,90 Q60,55 120,90 T240,90 T360,90 T480,90 T600,90 T720,90 T840,90 T960,90 T1080,90 T1200,90 L1200,120 L0,120 Z;
+        M0,85 Q60,45 120,85 T240,85 T360,85 T480,85 T600,85 T720,85 T840,85 T960,85 T1080,85 T1200,85 L1200,120 L0,120 Z;
+        M0,95 Q60,60 120,95 T240,95 T360,95 T480,95 T600,95 T720,95 T840,95 T960,95 T1080,95 T1200,95 L1200,120 L0,120 Z;
+        M0,90 Q60,55 120,90 T240,90 T360,90 T480,90 T600,90 T720,90 T840,90 T960,90 T1080,90 T1200,90 L1200,120 L0,120 Z"/>
+  </path>
+  
+  <!-- Flame 3 (faster animation) -->
+  <path fill="url(#flameGradient3)" opacity="0.5">
+    <animate attributeName="d" dur="1.8s" repeatCount="indefinite"
+      values="
+        M0,95 Q40,65 80,95 T160,95 T240,95 T320,95 T400,95 T480,95 T560,95 T640,95 T720,95 T800,95 T880,95 T960,95 T1040,95 T1120,95 T1200,95 L1200,120 L0,120 Z;
+        M0,100 Q40,70 80,100 T160,100 T240,100 T320,100 T400,100 T480,100 T560,100 T640,100 T720,100 T800,100 T880,100 T960,100 T1040,100 T1120,100 T1200,100 L1200,120 L0,120 Z;
+        M0,92 Q40,60 80,92 T160,92 T240,92 T320,92 T400,92 T480,92 T560,92 T640,92 T720,92 T800,92 T880,92 T960,92 T1040,92 T1120,92 T1200,92 L1200,120 L0,120 Z;
+        M0,95 Q40,65 80,95 T160,95 T240,95 T320,95 T400,95 T480,95 T560,95 T640,95 T720,95 T800,95 T880,95 T960,95 T1040,95 T1120,95 T1200,95 L1200,120 L0,120 Z"/>
+  </path>
+  
+  <!-- Flame sparks/tips -->
+  <g opacity="0.6">
+    <circle cx="100" cy="60" r="3" fill="#ffff00">
+      <animate attributeName="cy" dur="1.5s" repeatCount="indefinite" values="60;50;60"/>
+      <animate attributeName="opacity" dur="1.5s" repeatCount="indefinite" values="0.6;1;0.6"/>
+    </circle>
+    <circle cx="300" cy="55" r="2.5" fill="#ffa500">
+      <animate attributeName="cy" dur="1.8s" repeatCount="indefinite" values="55;45;55"/>
+      <animate attributeName="opacity" dur="1.8s" repeatCount="indefinite" values="0.6;1;0.6"/>
+    </circle>
+    <circle cx="500" cy="58" r="3" fill="#ffff00">
+      <animate attributeName="cy" dur="2s" repeatCount="indefinite" values="58;48;58"/>
+      <animate attributeName="opacity" dur="2s" repeatCount="indefinite" values="0.6;1;0.6"/>
+    </circle>
+    <circle cx="700" cy="62" r="2" fill="#ffd700">
+      <animate attributeName="cy" dur="1.6s" repeatCount="indefinite" values="62;52;62"/>
+      <animate attributeName="opacity" dur="1.6s" repeatCount="indefinite" values="0.6;1;0.6"/>
+    </circle>
+    <circle cx="900" cy="57" r="2.5" fill="#ffa500">
+      <animate attributeName="cy" dur="1.9s" repeatCount="indefinite" values="57;47;57"/>
+      <animate attributeName="opacity" dur="1.9s" repeatCount="indefinite" values="0.6;1;0.6"/>
+    </circle>
+    <circle cx="1100" cy="59" r="3" fill="#ffff00">
+      <animate attributeName="cy" dur="1.7s" repeatCount="indefinite" values="59;49;59"/>
+      <animate attributeName="opacity" dur="1.7s" repeatCount="indefinite" values="0.6;1;0.6"/>
+    </circle>
+  </g>
+</svg>
