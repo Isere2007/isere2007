@@ -13,21 +13,7 @@
   <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 <br><br>
-<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .c{font:18px monospace;fill:#0F0;}
-    .t{font:24px monospace;fill:#0F0;text-anchor:middle;}
-  </style>
-  <!-- tiny matrix rain -->
-  <text x="20"><tspan class="c" y="0">01F<animate attributeName="y" from="-50" to="200" dur="2s" repeatCount="indefinite"/></tspan></text>
-  <text x="60"><tspan class="c" y="0">A7B<animate attributeName="y" from="-50" to="200" dur="2.2s" repeatCount="indefinite"/></tspan></text>
-  <text x="100"><tspan class="c" y="0">C84<animate attributeName="y" from="-50" to="200" dur="2.4s" repeatCount="indefinite"/></tspan></text>
-  <!-- typing text -->
-  <text x="50%" y="50" class="t">Computer Engineer</text>
-  <text x="50%" y="80" class="t">Full-Stack Developer</text>
-  <text x="50%" y="110" class="t">Cloud Engineer</text>
-  <text x="50%" y="140" class="t">AI Engineer</text>
-</svg>
+
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
