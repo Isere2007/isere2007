@@ -30,106 +30,54 @@
 # 💻 Tech Stack:
 <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:15px;">
 
-  <!-- React -->
+<p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;">
+
+  <!-- Full-Stack / Web -->
   <a href="https://reactjs.org/">
-    <svg width="90" height="90" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="28" stroke="#61dafb" stroke-width="2" fill="black"/>
-      <text x="32" y="37" font-size="20" font-family="monospace" fill="#61dafb" text-anchor="middle">R</text>
-      <circle cx="32" cy="32" r="28" stroke="#61dafb" stroke-width="2" fill="none">
-        <animate attributeName="stroke-width" values="2;4;2" dur="1.5s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=pulse&svgfill=61dafb" alt="React" width="90" />
   </a>
-
-  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/">
-    <svg width="90" height="90" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="28" stroke="#3178c6" stroke-width="2" fill="black"/>
-      <text x="32" y="37" font-size="20" font-family="monospace" fill="#3178c6" text-anchor="middle">TS</text>
-      <circle cx="32" cy="32" r="28" stroke="#3178c6" stroke-width="2" fill="none">
-        <animate attributeName="stroke-width" values="2;5;2" dur="1.2s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=pulse&svgfill=3178c6" alt="TypeScript" width="90" />
   </a>
-
-  <!-- Node.js -->
   <a href="https://nodejs.org/">
-    <svg width="90" height="90" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="28" stroke="#339933" stroke-width="2" fill="black"/>
-      <text x="32" y="37" font-size="20" font-family="monospace" fill="#339933" text-anchor="middle">N</text>
-      <circle cx="32" cy="32" r="28" stroke="#339933" stroke-width="2" fill="none">
-        <animate attributeName="stroke-width" values="2;5;2" dur="1.4s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&animation=pulse&svgfill=339933" alt="Node.js" width="90" />
   </a>
 
-  <!-- AWS -->
+  <!-- Cloud / DevOps -->
   <a href="https://aws.amazon.com/">
-    <svg width="90" height="90" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="28" stroke="#ff9900" stroke-width="2" fill="black"/>
-      <text x="32" y="37" font-size="20" font-family="monospace" fill="#ff9900" text-anchor="middle">AWS</text>
-      <circle cx="32" cy="32" r="28" stroke="#ff9900" stroke-width="2" fill="none">
-        <animate attributeName="stroke-width" values="2;6;2" dur="1.6s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&animation=pulse&svgfill=ff9900" alt="AWS" width="90" />
   </a>
-
-  <!-- Docker -->
   <a href="https://www.docker.com/">
-    <svg width="90" height="90" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="28" stroke="#2496ed" stroke-width="2" fill="black"/>
-      <text x="32" y="37" font-size="20" font-family="monospace" fill="#2496ed" text-anchor="middle">D</text>
-      <circle cx="32" cy="32" r="28" stroke="#2496ed" stroke-width="2" fill="none">
-        <animate attributeName="stroke-width" values="2;5;2" dur="1.3s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&animation=pulse&svgfill=2496ed" alt="Docker" width="90" />
   </a>
-
-  <!-- Kubernetes -->
   <a href="https://kubernetes.io/">
-    <svg width="90" height="90" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="28" stroke="#326ce5" stroke-width="2" fill="black"/>
-      <text x="32" y="37" font-size="20" font-family="monospace" fill="#326ce5" text-anchor="middle">K</text>
-      <circle cx="32" cy="32" r="28" stroke="#326ce5" stroke-width="2" fill="none">
-        <animate attributeName="stroke-width" values="2;5;2" dur="1.5s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&animation=pulse&svgfill=326ce5" alt="Kubernetes" width="90" />
   </a>
 
-  <!-- Python -->
+  <!-- AI / Programming -->
   <a href="https://www.python.org/">
-    <svg width="90" height="90" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="28" stroke="#3776ab" stroke-width="2" fill="black"/>
-      <text x="32" y="37" font-size="20" font-family="monospace" fill="#3776ab" text-anchor="middle">Py</text>
-      <circle cx="32" cy="32" r="28" stroke="#3776ab" stroke-width="2" fill="none">
-        <animate attributeName="stroke-width" values="2;5;2" dur="1.4s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=pulse&svgfill=3776ab" alt="Python" width="90" />
   </a>
-
-  <!-- Rust -->
   <a href="https://www.rust-lang.org/">
-    <svg width="90" height="90" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="28" stroke="#dea584" stroke-width="2" fill="black"/>
-      <text x="32" y="37" font-size="20" font-family="monospace" fill="#dea584" text-anchor="middle">R</text>
-      <circle cx="32" cy="32" r="28" stroke="#dea584" stroke-width="2" fill="none">
-        <animate attributeName="stroke-width" values="2;5;2" dur="1.6s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&animation=pulse&svgfill=dea584" alt="Rust" width="90" />
+  </a>
+  <a href="https://tensorflow.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tensorflow&animation=pulse&svgfill=ff6f00" alt="TensorFlow" width="90" />
   </a>
 
-  <!-- TensorFlow -->
-  <a href="https://tensorflow.org/">
-    <svg width="90" height="90" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="28" stroke="#ff6f00" stroke-width="2" fill="black"/>
-      <text x="32" y="37" font-size="20" font-family="monospace" fill="#ff6f00" text-anchor="middle">TF</text>
-      <circle cx="32" cy="32" r="28" stroke="#ff6f00" stroke-width="2" fill="none">
-        <animate attributeName="stroke-width" values="2;5;2" dur="1.3s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
+  <!-- Creative / Media -->
+  <a href="https://www.youtube.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=youtube&animation=pulse&svgfill=ff0000" alt="YouTube" width="90" />
+  </a>
+  <a href="https://www.twitch.tv/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=twitch&animation=pulse&svgfill=6441a5" alt="Twitch" width="90" />
+  </a>
+  <a href="https://www.spotify.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spotify&animation=pulse&svgfill=1ed760" alt="Spotify" width="90" />
   </a>
 
 </p>
+
 
 
 
