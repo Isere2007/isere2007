@@ -22,17 +22,10 @@
   <img src="https://gist.githubusercontent.com/Isere2007/de645dab82898d23b1a8949125c3508b/raw/395955108fa3cf2b4a7a2bace8bed9841802940e/falling-matrix.svg" width="100%" />
 </p>
 
-## 🌐 Socials:
+## 🌐 About ME:
+<img src="https://gist.githubusercontent.com/Isere2007/86171de1eafddf0e1bea20f691d80136/raw/1ba727d1bab701f2495717dae0a3c10bcba3a066/python.svg" alt="Python Logo" width="100" height="100" />
+
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Isere2007) 
->>> for i in range(3):
->>> 
-...     print(f"{i+1}: Writing awesome code!")
-
-1: Writing awesome code!
-
-2: Writing awesome code!
-
-3: Writing awesome code!
 
 
 
