@@ -39,6 +39,11 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Isere2007) 
 
 
+<p align="center">
+  <a href="https://www.codewars.com/users/Isere2007">
+    <img src="https://www.codewars.com/users/Isere2007/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
 
 
 
