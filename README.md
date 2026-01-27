@@ -50,6 +50,7 @@
 # 💻 Tech Stack:
 
 <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;">
+<iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/youtube-live-subscriber-counter/UC2MqJl2J1x5Erdpmr_a2CQw style="border: 0; width:300px; height:80px;"></iframe>
 
   <!-- React -->
   <a href="https://reactjs.org/">
